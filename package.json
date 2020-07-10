@@ -7,7 +7,7 @@
     "vulcanize": "bin/vulcanize"
   },
   "dependencies": {
-    "cheerio": "^0.17.0",
+    "cheerio": "^0.20.0",
     "clean-css": "^2.2.11",
     "dom-serializer": "git://github.com/azakus/dom-serializer.git#self-closing-svg",
     "nopt": "^3.0.1",
